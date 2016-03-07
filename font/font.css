@@ -1,0 +1,9 @@
+/* Redressed fonts declaration */
+
+@font-face {
+	font-family: 'redressed';
+	src: url('Redressed.eot?#iefix') format('embedded-opentype'), 
+	     url('Redressed.woff') format('woff'), 
+	     url('Redressed.ttf')  format('truetype'),
+	     url('Redressed.svg#Redressed') format('svg');
+}
