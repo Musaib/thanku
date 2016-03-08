@@ -159,6 +159,7 @@
 					}
 				},
 				complete: function() {
+					$('#feedback-form input').val('');
 					$.unblockUI();
 				},
 			});
